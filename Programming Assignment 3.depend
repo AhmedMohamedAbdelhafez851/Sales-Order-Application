@@ -1,0 +1,245 @@
+# depslib dependency file v1.0
+1653516837 source:c:\c++\programming assignment 3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<Stock.h>
+	<Product.h>
+	<Customers.h>
+	<Cusotmer.h>
+	<Person.h>
+	<Company.h>
+	<Order.h>
+	<orderItem.h>
+	<Payment.h>
+	<Credit.h>
+	<Cash.h>
+	<Check.h>
+	<Transaction.h>
+
+1653515313 source:c:\c++\programming assignment 3\src\product.cpp
+	"Product.h"
+	<iostream>
+
+1653515143 c:\c++\programming assignment 3\include\product.h
+	<iostream>
+
+1653515324 source:c:\c++\programming assignment 3\src\stock.cpp
+	"Stock.h"
+	"iostream"
+	"cstring"
+	"Product.h"
+
+1653515155 c:\c++\programming assignment 3\include\stock.h
+	"Stock.h"
+	"Product.h"
+	"iostream"
+
+1653515188 source:c:\c++\programming assignment 3\src\cash.cpp
+	"Cash.h"
+
+1653515001 c:\c++\programming assignment 3\include\cash.h
+	<iostream>
+
+1653515267 source:c:\c++\programming assignment 3\src\order.cpp
+	"Order.h"
+	<iostream>
+
+1653515088 c:\c++\programming assignment 3\include\order.h
+	<cstring>
+	<iostream>
+
+1653515199 source:c:\c++\programming assignment 3\src\check.cpp
+	"Check.h"
+
+1653515024 c:\c++\programming assignment 3\include\check.h
+	<iostream>
+
+1653515223 source:c:\c++\programming assignment 3\src\credit.cpp
+	"Credit.h"
+
+1653515050 c:\c++\programming assignment 3\include\credit.h
+	<iostream>
+
+1653515292 source:c:\c++\programming assignment 3\src\payment.cpp
+	"Payment.h"
+
+1653515118 c:\c++\programming assignment 3\include\payment.h
+	"Cash.h"
+	"Check.h"
+	"Credit.h"
+	<iostream>
+
+1653515301 source:c:\c++\programming assignment 3\src\person.cpp
+	"Person.h"
+
+1653515130 c:\c++\programming assignment 3\include\person.h
+	<iostream>
+	<string>
+
+1653515211 source:c:\c++\programming assignment 3\src\company.cpp
+	"Company.h"
+
+1653515035 c:\c++\programming assignment 3\include\company.h
+	<iostream>
+	<string>
+
+1652465102 source:c:\c++\programming assignment 3\src\customer.cpp
+	"Customer.h"
+	<iostream>
+
+1652720173 c:\c++\programming assignment 3\include\customer.h
+
+1653515254 source:c:\c++\programming assignment 3\src\customers.cpp
+	"Customers.h"
+
+1653515076 c:\c++\programming assignment 3\include\customers.h
+	<iostream>
+	<Cusotmer.h>
+	<cstring>
+
+1653515239 source:c:\c++\programming assignment 3\src\cusotmer.cpp
+	"Cusotmer.h"
+
+1653515065 c:\c++\programming assignment 3\include\cusotmer.h
+	<iostream>
+
+1653515281 source:c:\c++\programming assignment 3\src\orderitem.cpp
+	"orderItem.h"
+
+1653515104 c:\c++\programming assignment 3\include\orderitem.h
+	"Stock.h"
+	<iostream>
+
+1653515168 c:\c++\programming assignment 3\include\transaction.h
+	<iostream>
+	<cstring>
+	<Payment.h>
+	<Order.h>
+
+1653515336 source:c:\c++\programming assignment 3\src\transaction.cpp
+	"Transaction.h"
+	"Payment.h"
+	"Order.h"
+
+1654361041 source:c:\users\fawzy\desktop\new folder\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<Stock.h>
+	<Product.h>
+	<Customers.h>
+	<Cusotmer.h>
+	<Person.h>
+	<Company.h>
+	<Order.h>
+	<orderItem.h>
+	<Payment.h>
+	<Credit.h>
+	<Cash.h>
+	<Check.h>
+	<Transaction.h>
+
+1653515155 c:\users\fawzy\desktop\new folder\include\stock.h
+	"Stock.h"
+	"Product.h"
+	"iostream"
+
+1653515143 c:\users\fawzy\desktop\new folder\include\product.h
+	<iostream>
+
+1653515076 c:\users\fawzy\desktop\new folder\include\customers.h
+	<iostream>
+	<Cusotmer.h>
+	<cstring>
+
+1653515065 c:\users\fawzy\desktop\new folder\include\cusotmer.h
+	<iostream>
+
+1653515130 c:\users\fawzy\desktop\new folder\include\person.h
+	<iostream>
+	<string>
+
+1653515035 c:\users\fawzy\desktop\new folder\include\company.h
+	<iostream>
+	<string>
+
+1653515088 c:\users\fawzy\desktop\new folder\include\order.h
+	<cstring>
+	<iostream>
+
+1653515104 c:\users\fawzy\desktop\new folder\include\orderitem.h
+	"Stock.h"
+	<iostream>
+
+1653515118 c:\users\fawzy\desktop\new folder\include\payment.h
+	"Cash.h"
+	"Check.h"
+	"Credit.h"
+	<iostream>
+
+1653515001 c:\users\fawzy\desktop\new folder\include\cash.h
+	<iostream>
+
+1653515024 c:\users\fawzy\desktop\new folder\include\check.h
+	<iostream>
+
+1653515050 c:\users\fawzy\desktop\new folder\include\credit.h
+	<iostream>
+
+1653515168 c:\users\fawzy\desktop\new folder\include\transaction.h
+	<iostream>
+	<cstring>
+	<Payment.h>
+	<Order.h>
+
+1653515188 source:c:\users\fawzy\desktop\new folder\src\cash.cpp
+	"Cash.h"
+
+1653515199 source:c:\users\fawzy\desktop\new folder\src\check.cpp
+	"Check.h"
+
+1653515211 source:c:\users\fawzy\desktop\new folder\src\company.cpp
+	"Company.h"
+
+1653515223 source:c:\users\fawzy\desktop\new folder\src\credit.cpp
+	"Credit.h"
+
+1654359860 source:c:\users\fawzy\desktop\new folder\src\cusotmer.cpp
+	"Cusotmer.h"
+	"Customers.h"
+
+1654360237 source:c:\users\fawzy\desktop\new folder\src\customers.cpp
+	"Customers.h"
+	"Cusotmer.h"
+
+1653515267 source:c:\users\fawzy\desktop\new folder\src\order.cpp
+	"Order.h"
+	<iostream>
+
+1653515281 source:c:\users\fawzy\desktop\new folder\src\orderitem.cpp
+	"orderItem.h"
+
+1653515292 source:c:\users\fawzy\desktop\new folder\src\payment.cpp
+	"Payment.h"
+
+1653515301 source:c:\users\fawzy\desktop\new folder\src\person.cpp
+	"Person.h"
+
+1653515313 source:c:\users\fawzy\desktop\new folder\src\product.cpp
+	"Product.h"
+	<iostream>
+
+1654359154 source:c:\users\fawzy\desktop\new folder\src\stock.cpp
+	"Stock.h"
+	"iostream"
+	"cstring"
+	"Product.h"
+
+1654359154 source:c:\users\fawzy\desktop\new folder\src\transaction.cpp
+	"Transaction.h"
+	"Payment.h"
+	"Order.h"
+
+1652720173 c:\users\fawzy\desktop\new folder\include\customer.h
+
